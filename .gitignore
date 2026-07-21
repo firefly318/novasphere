@@ -1,0 +1,34 @@
+# Môi trường Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Biến môi trường (chứa mật khẩu, key - KHÔNG đẩy lên!)
+.env
+.env.local
+.env.production
+backend/.env
+
+# Build output Frontend
+frontend/dist/
+frontend/.vite/
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+logs/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Tệp Office tạm thời
+~$*
+
+# Backup
+*.bak
