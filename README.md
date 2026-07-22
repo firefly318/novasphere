@@ -42,7 +42,7 @@
 ### Yêu Cầu Môi Trường
 
 - [Node.js](https://nodejs.org/) v18 trở lên
-- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) 2019 trở lên
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) 2014 trở lên
 - [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup)
 
 ---
